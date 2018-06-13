@@ -1,0 +1,14 @@
+{
+  "name": "carryfest",
+  "version": "1.0.0",
+  "description": "information retrival system of festive events",
+  "main": "index.html\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VovaRybak",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^6.0.8"
+  }
+}
